@@ -1,0 +1,57 @@
+div.scrollmenu {
+    background-color: #333;
+    overflow: scroll;
+    padding: 2px 15px ;
+    margin: 7px;
+    border-radius: 10px;
+    text-align: left !important;
+  }
+  
+
+.row.calculator{
+    margin-top: 400px;
+}
+
+.space-top{
+    margin-top: 20%;
+}
+
+
+.calculator{
+background-color: #36454F;
+border-radius: 20px;
+width: 300px !important;
+padding: 10px;
+font-family: "Orbitron", sans-serif;
+font-size: 24px;
+font-weight: 400;
+font-style: normal;
+}
+
+.button{
+    width: 60px !important;
+    background-color: #D3D3D3 ;
+    padding: 5px 5px;
+    border-radius: 10px;
+    margin: 5px;
+
+}
+
+
+.screen{
+    height: 60px !important;
+    font-size: 28px;
+    color: aliceblue;
+    justify-content: left;
+    align-items: center;
+
+}
+
+.operator{
+    background-color: orange;
+}
+
+.button:hover{
+    background: #FFDEAD;
+    color: #8B4000;
+}
